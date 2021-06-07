@@ -1,0 +1,22 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/home/kabir/Unity/2020.3.1f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-12812ef6772da3e339a8d0a0b654bf93
+# Starting compiling UnityEngine.UI.dll
+/home/kabir/Unity/2020.3.1f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-56177a64caab6eea1b0edd8cc143eeb2
+# Starting compiling UnityEngine.Purchasing.dll
+/home/kabir/Unity/2020.3.1f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c38abcc1e14c39c6bb555a6f2e0d5429
+# Starting compiling Unity.Timeline.dll
+/home/kabir/Unity/2020.3.1f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ed00e83d58d9fc12a8e191dfb4307614
+# Starting compiling Unity.TextMeshPro.dll
+/home/kabir/Unity/2020.3.1f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9437c42e039f23fb29f48ea8f187ce3f
+# Starting compiling UnityEngine.Advertisements.dll
+/home/kabir/Unity/2020.3.1f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-01b8bb27e07086a5e814232971ffe820
+# Starting compiling UnityEngine.SpatialTracking.dll
+/home/kabir/Unity/2020.3.1f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d5713ccacb52986b29e35b6b41916b3c
+# Starting compiling Unity.Analytics.DataPrivacy.dll
+/home/kabir/Unity/2020.3.1f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0c78b777658e0288ea61e779c23c374e
+# Starting compiling UnityEngine.Monetization.dll
+/home/kabir/Unity/2020.3.1f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-5ed1d9f481e2070ce9d9ad7aa604acdd
+# Starting compiling UnityEngine.XR.LegacyInputHelpers.dll
+/home/kabir/Unity/2020.3.1f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-30c1f1a76bdfe5b3ea5af1847d57957c
+# Starting compiling Assembly-CSharp.dll
+/home/kabir/Unity/2020.3.1f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b36942544606b5984b69cdc35bba7203
